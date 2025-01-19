@@ -27,7 +27,14 @@ This repository contains the design, simulation, and analysis files for an **opt
 - **`/schematics/`**: KiCad schematic files (`.sch`) for the Hex-Schmitt Trigger circuit.
 ![image](https://github.com/user-attachments/assets/fb02b65e-f0a8-456c-af09-aa064970b2ab)
 
-- **`/pcb/`**: PCB layout files for the circuit, designed for easy prototyping.  
+- **`/pcb/`**: PCB layout files for the circuit, designed for easy prototyping.
+- ![Screenshot (187)](https://github.com/user-attachments/assets/bf83ab43-9a80-4275-9991-4f29ed0424e9)
+3D PCB_Layout
+![image](https://github.com/user-attachments/assets/dcdb4414-7a23-4904-8a51-4fe88c4e1473)
+
+![image](https://github.com/user-attachments/assets/08a153cc-9dcd-4ff2-a653-6ce957c22162)
+
+
 - **`/simulation/`**:  
   - SPICE netlists for simulation.  
   - Simulation results and graphs (e.g., hysteresis characteristics).  
